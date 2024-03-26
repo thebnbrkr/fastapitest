@@ -1,0 +1,2 @@
+# fastapitest
+Fast API test.
